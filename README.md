@@ -14,6 +14,7 @@ Dicee is a simple dice-rolling game app built using the Flutter framework. When 
 - Simple and easy to use
 
 ## Screenshots
-![Dicee App Screenshot](https://github.com/abdalrahmanabs/DiceRollingGameFlutter/assets/58333909/ac88bfbb-a9c2-457e-a70f-e2c54bc8d747)
+![Dicee App Screenshot](https://github.com/abdalrahmanabs/DiceRollingGameFlutter/assets/58333909/50dfbd82-204f-498f-b8a0-0a42315aeb95)
+
 
 
