@@ -1,16 +1,19 @@
-# dicee_app
+# Dicee App
 
-A new Flutter project.
+A simple dice-rolling game built using Flutter.
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
+Dicee is a simple dice-rolling game app built using the Flutter framework. When the user taps on either of the dice images, the app generates random numbers between 1 and 6 and updates the images with the corresponding dice faces. The app has a red background and a title bar with the title "Dicee". It follows the Material Design guidelines for UI components.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Roll the dice by tapping on them
+- Generates random numbers between 1 and 6
+- Uses Flutter framework and Material Design guidelines for UI
+- Simple and easy to use
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+![[Dicee App Screenshot](https://github.com/abdalrahmanabs/DiceRollingGameFlutter/assets/58333909/ac88bfbb-a9c2-457e-a70f-e2c54bc8d747)
+
+
